@@ -69,72 +69,105 @@ Here are some potential test cases categorized by page:
 > Check that the user can view and apply to job listings associated with the company.
 
 ## Notifications page:
-Ensure that the notifications page loads quickly and without any errors.
-Verify that the notifications are displayed in a timely and accurate manner.
-Check that the user can mark notifications as read or unread without any issues.
-Verify that the user can customize their notification settings and preferences.
-Settings page:
-Check that the settings page loads quickly and without any errors.
-Verify that the user can update their account information, such as name, email, and password, without any issues.
-Ensure that the user can customize their privacy and security settings, such as profile visibility and two-factor authentication.
-Verify that the user can manage their email and notification preferences without any issues.
-Check that the user can delete their account if needed without any issues.
-Sales Navigator page:
-Verify that the Sales Navigator page loads quickly and without any errors.
-Check that the user can access and use the sales tools, such as lead recommendations and CRM integration.
-Ensure that the user can create and manage sales lead lists without any issues.
-Verify that the user can access and use the premium features, such as InMail messaging and advanced search.
-Learning page:
-Check that the Learning page loads quickly and without any errors.
-Verify that the user can access and use the learning tools, such as courses and videos.
-Ensure that the user can save and resume their progress on courses without any issues.
-Verify that the user can access and use the premium learning features, such as certification programs and expert-led courses.
-News Feed page:
-Verify that the news feed page loads quickly and without any errors.
-Check that the user can view and engage with posts from their connections and companies they follow.
-Ensure that the user can like, comment, and share posts without any issues.
-Verify that the user can report and flag inappropriate content or spam.
-Recruiter page:
-Ensure that the Recruiter page loads quickly and without any errors.
-Verify that the user can access and use the recruiting tools, such as job postings and candidate searches.
-Check that the user can save and manage candidate profiles without any issues.
-Ensure that the user can collaborate with their team and manage hiring workflows without any issues.
-Sales page:
-Verify that the Sales page loads quickly and without any errors.
-Check that the user can access and use the sales tools, such as sales navigator and lead recommendations.
-Ensure that the user can manage their sales pipeline and opportunities without any issues.
-Verify that the user can access and use the premium sales features, such as InMail messaging and advanced search.
-Advertising page:
-Ensure that the Advertising page loads quickly and without any errors.
-Verify that the user can access and use the advertising tools, such as sponsored content and LinkedIn Ads.
-Check that the user can create and manage ad campaigns without any issues.
-Ensure that the user can monitor and analyze the performance of their ads.
-Mobile app:
+> Ensure that the notifications page loads quickly and without any errors.
+
+> Verify that the notifications are displayed in a timely and accurate manner.
+
+> Check that the user can mark notifications as read or unread without any issues.
+
+> Verify that the user can customize their notification settings and preferences.
+
+## Settings page:
+> Check that the settings page loads quickly and without any errors.
+
+> Verify that the user can update their account information, such as name, email, and password, without any issues.
+
+> Ensure that the user can customize their privacy and security settings, such as profile visibility and two-factor authentication.
+
+> Verify that the user can manage their email and notification preferences without any issues.
+
+> Check that the user can delete their account if needed without any issues.
+
+## Sales Navigator page:
+> Verify that the Sales Navigator page loads quickly and without any errors.
+
+> Check that the user can access and use the sales tools, such as lead recommendations and CRM integration.
+
+> Ensure that the user can create and manage sales lead lists without any issues.
+
+> Verify that the user can access and use the premium features, such as InMail messaging and advanced search.
+
+## Learning page:
+> Check that the Learning page loads quickly and without any errors.
+
+> Verify that the user can access and use the learning tools, such as courses and videos.
+
+> Ensure that the user can save and resume their progress on courses without any issues.
+
+> Verify that the user can access and use the premium learning features, such as certification programs and expert-led courses.
+
+## News Feed page:
+> Verify that the news feed page loads quickly and without any errors.
+
+> Check that the user can view and engage with posts from their connections and companies they follow.
+
+> Ensure that the user can like, comment, and share posts without any issues.
+
+> Verify that the user can report and flag inappropriate content or spam.
+
+## Recruiter page:
+> Ensure that the Recruiter page loads quickly and without any errors.
+
+> Verify that the user can access and use the recruiting tools, such as job postings and candidate searches.
+
+> Check that the user can save and manage candidate profiles without any issues.
+
+> Ensure that the user can collaborate with their team and manage hiring workflows without any issues.
+
+## Sales page:
+> Verify that the Sales page loads quickly and without any errors.
+
+> Check that the user can access and use the sales tools, such as sales navigator and lead recommendations.
+
+> Ensure that the user can manage their sales pipeline and opportunities without any issues.
+
+> Verify that the user can access and use the premium sales features, such as InMail messaging and advanced search.
+
+## Advertising page:
+> Ensure that the Advertising page loads quickly and without any errors.
+
+> Verify that the user can access and use the advertising tools, such as sponsored content and LinkedIn Ads.
+
+> Check that the user can create and manage ad campaigns without any issues.
+
+> Ensure that the user can monitor and analyze the performance of their ads.
+
+## Mobile app:
 Verify that the mobile app is compatible with different devices and operating systems.
 Ensure that the app loads quickly and without any errors.
 Verify that the user can access and use all the features available on the desktop version.
 Check that the app provides a smooth and seamless user experience, including fast loading times and intuitive navigation.
-Messaging page:
+## Messaging page:
 Verify that the messaging page loads quickly and without any errors.
 Check that the user can send and receive messages without any issues.
 Ensure that the user can manage their messaging settings and preferences.
 Verify that the user can access and use messaging features, such as group messaging and file sharing.
-Recommendations page:
+## Recommendations page:
 Ensure that the recommendations page loads quickly and without any errors.
 Verify that the user can view and give recommendations to their connections.
 Check that the user can manage their recommendations and update them if needed.
 Ensure that the user can control their recommendation visibility and privacy settings.
-Profile page:
+## Profile page:
 Verify that the profile page loads quickly and without any errors.
 Check that the user's profile information, such as their name, title, and experience, is displayed correctly.
 Ensure that the user can edit and update their profile information without any issues.
 Verify that the user can customize their profile privacy and visibility settings.
-Pulse page:
+## Pulse page:
 Check that the Pulse page loads quickly and without any errors.
 Verify that the user can access and read articles and news stories relevant to their interests.
 Ensure that the user can follow and engage with authors and publishers.
 Verify that the user can share articles and news stories with their connections.
-Job search page:
+## Job search page:
 Verify that the job search page loads quickly and without any errors.
 Check that the user can search and filter job listings based on their preferences.
 Ensure that the user can apply to job listings without any issues.
