@@ -2,20 +2,31 @@
 
 Here are some potential test cases categorized by page:
 
-Homepage:
-Verify that the homepage loads properly without any errors.
-Ensure that all the links and buttons on the homepage are functional and lead to the correct pages.
-Check that the search bar is functioning as expected and returns accurate search results.
-Verify that the user's profile picture, name, and headline are displayed correctly.
-Check that the notifications, messages, and connection requests are displayed correctly.
-Verify that the content on the homepage is up-to-date and relevant.
-Profile page:
-Check that the user's profile information, such as name, location, job title, and education, is displayed correctly.
-Verify that the user's connections, skills, endorsements, and recommendations are displayed correctly.
-Ensure that the user's activity, such as posts, articles, comments, and reactions, is displayed correctly.
-Verify that the user's privacy settings are working as expected.
-Check that the user can edit and update their profile information without any issues.
-Jobs page:
+## Homepage:
+> Verify that the homepage loads properly without any errors.
+
+> Ensure that all the links and buttons on the homepage are functional and lead to the correct pages.
+
+> Check that the search bar is functioning as expected and returns accurate search results.
+
+> Verify that the user's profile picture, name, and headline are displayed correctly.
+
+> Check that the notifications, messages, and connection requests are displayed correctly.
+
+> Verify that the content on the homepage is up-to-date and relevant.
+
+## Profile page:
+> Check that the user's profile information, such as name, location, job title, and education, is displayed correctly.
+
+> Verify that the user's connections, skills, endorsements, and recommendations are displayed correctly.
+
+> Ensure that the user's activity, such as posts, articles, comments, and reactions, is displayed correctly.
+
+> Verify that the user's privacy settings are working as expected.
+
+> Check that the user can edit and update their profile information without any issues.
+
+## Jobs page:
 Ensure that the jobs page loads quickly and without any errors.
 Check that the job listings are accurate and up-to-date.
 Verify that the search bar and filters are functioning as expected.
