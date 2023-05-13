@@ -27,23 +27,33 @@ Here are some potential test cases categorized by page:
 > Check that the user can edit and update their profile information without any issues.
 
 ## Jobs page:
-Ensure that the jobs page loads quickly and without any errors.
-Check that the job listings are accurate and up-to-date.
-Verify that the search bar and filters are functioning as expected.
-Ensure that the apply button and the job application process are working correctly.
-Check that the user can save and share job listings without any issues.
-Messaging page:
-Verify that the messaging feature is working correctly, including sending and receiving messages, creating new conversations, and replying to messages.
-Ensure that the messaging system is secure and that user data is protected.
-Check that the messaging notifications are displayed correctly.
-Verify that the user can delete messages and conversations without any issues.
-Groups page:
-Ensure that the groups page loads quickly and without any errors.
-Verify that the group listings are accurate and up-to-date.
-Check that the user can join and leave groups without any issues.
-Ensure that the user can create new groups and manage their existing groups without any issues.
-Verify that the group discussions and posts are displayed correctly.
-Company page:
+> Ensure that the jobs page loads quickly and without any errors.
+
+> Check that the job listings are accurate and up-to-date.
+
+> Verify that the search bar and filters are functioning as expected.
+
+> Ensure that the apply button and the job application process are working correctly.
+
+> Check that the user can save and share job listings without any issues.
+
+## Messaging page:
+> Verify that the messaging feature is working correctly, including sending and receiving messages, creating new conversations, and replying to messages.
+
+> Ensure that the messaging system is secure and that user data is protected.
+
+> Check that the messaging notifications are displayed correctly.
+
+> Verify that the user can delete messages and conversations without any issues.
+
+## Groups page:
+> Ensure that the groups page loads quickly and without any errors.
+
+> Verify that the group listings are accurate and up-to-date.
+> Check that the user can join and leave groups without any issues.
+> Ensure that the user can create new groups and manage their existing groups without any issues.
+> Verify that the group discussions and posts are displayed correctly.
+## Company page:
 Verify that the company page loads quickly and without any errors.
 Check that the company information, such as the company name, logo, and description, is displayed correctly.
 Ensure that the company updates, such as job listings and news articles, are displayed correctly.
