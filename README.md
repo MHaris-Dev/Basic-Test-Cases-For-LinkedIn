@@ -143,32 +143,55 @@ Here are some potential test cases categorized by page:
 > Ensure that the user can monitor and analyze the performance of their ads.
 
 ## Mobile app:
-Verify that the mobile app is compatible with different devices and operating systems.
-Ensure that the app loads quickly and without any errors.
-Verify that the user can access and use all the features available on the desktop version.
-Check that the app provides a smooth and seamless user experience, including fast loading times and intuitive navigation.
+> Verify that the mobile app is compatible with different devices and operating systems.
+
+> Ensure that the app loads quickly and without any errors.
+
+> Verify that the user can access and use all the features available on the desktop version.
+
+> Check that the app provides a smooth and seamless user experience, including fast loading times and intuitive navigation.
+
 ## Messaging page:
-Verify that the messaging page loads quickly and without any errors.
-Check that the user can send and receive messages without any issues.
-Ensure that the user can manage their messaging settings and preferences.
-Verify that the user can access and use messaging features, such as group messaging and file sharing.
+> Verify that the messaging page loads quickly and without any errors.
+
+> Check that the user can send and receive messages without any issues.
+
+> Ensure that the user can manage their messaging settings and preferences.
+
+> Verify that the user can access and use messaging features, such as group messaging and file sharing.
+
 ## Recommendations page:
-Ensure that the recommendations page loads quickly and without any errors.
-Verify that the user can view and give recommendations to their connections.
-Check that the user can manage their recommendations and update them if needed.
-Ensure that the user can control their recommendation visibility and privacy settings.
+> Ensure that the recommendations page loads quickly and without any errors.
+
+> Verify that the user can view and give recommendations to their connections.
+
+> Check that the user can manage their recommendations and update them if needed.
+
+> Ensure that the user can control their recommendation visibility and privacy settings.
+
 ## Profile page:
-Verify that the profile page loads quickly and without any errors.
-Check that the user's profile information, such as their name, title, and experience, is displayed correctly.
-Ensure that the user can edit and update their profile information without any issues.
-Verify that the user can customize their profile privacy and visibility settings.
+> Verify that the profile page loads quickly and without any errors.
+
+> Check that the user's profile information, such as their name, title, and experience, is displayed correctly.
+
+> Ensure that the user can edit and update their profile information without any issues.
+
+> Verify that the user can customize their profile privacy and visibility settings.
+
 ## Pulse page:
-Check that the Pulse page loads quickly and without any errors.
-Verify that the user can access and read articles and news stories relevant to their interests.
-Ensure that the user can follow and engage with authors and publishers.
-Verify that the user can share articles and news stories with their connections.
+> Check that the Pulse page loads quickly and without any errors.
+
+> Verify that the user can access and read articles and news stories relevant to their interests.
+
+> Ensure that the user can follow and engage with authors and publishers.
+
+> Verify that the user can share articles and news stories with their connections.
+
 ## Job search page:
-Verify that the job search page loads quickly and without any errors.
-Check that the user can search and filter job listings based on their preferences.
-Ensure that the user can apply to job listings without any issues.
-Verify that the user can save and manage job searches and alerts.
+> Verify that the job search page loads quickly and without any errors.
+
+> Check that the user can search and filter job listings based on their preferences.
+
+> Ensure that the user can apply to job listings without any issues.
+
+> Verify that the user can save and manage job searches and alerts.
