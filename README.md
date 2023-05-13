@@ -50,16 +50,25 @@ Here are some potential test cases categorized by page:
 > Ensure that the groups page loads quickly and without any errors.
 
 > Verify that the group listings are accurate and up-to-date.
+
 > Check that the user can join and leave groups without any issues.
+
 > Ensure that the user can create new groups and manage their existing groups without any issues.
+
 > Verify that the group discussions and posts are displayed correctly.
+
 ## Company page:
-Verify that the company page loads quickly and without any errors.
-Check that the company information, such as the company name, logo, and description, is displayed correctly.
-Ensure that the company updates, such as job listings and news articles, are displayed correctly.
-Verify that the user can follow and unfollow companies without any issues.
-Check that the user can view and apply to job listings associated with the company.
-Notifications page:
+> Verify that the company page loads quickly and without any errors.
+
+> Check that the company information, such as the company name, logo, and description, is displayed correctly.
+
+> Ensure that the company updates, such as job listings and news articles, are displayed correctly.
+
+> Verify that the user can follow and unfollow companies without any issues.
+
+> Check that the user can view and apply to job listings associated with the company.
+
+## Notifications page:
 Ensure that the notifications page loads quickly and without any errors.
 Verify that the notifications are displayed in a timely and accurate manner.
 Check that the user can mark notifications as read or unread without any issues.
