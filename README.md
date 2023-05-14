@@ -26,6 +26,14 @@ Here are some potential test cases categorized by page:
 
 > Check that the user can edit and update their profile information without any issues.
 
+> Verify that the profile page loads quickly and without any errors.
+
+> Check that the user's profile information, such as their name, title, and experience, is displayed correctly.
+
+> Ensure that the user can edit and update their profile information without any issues.
+
+> Verify that the user can customize their profile privacy and visibility settings.
+
 ## Jobs page:
 > Ensure that the jobs page loads quickly and without any errors.
 
@@ -37,6 +45,14 @@ Here are some potential test cases categorized by page:
 
 > Check that the user can save and share job listings without any issues.
 
+> Verify that the job search page loads quickly and without any errors.
+
+> Check that the user can search and filter job listings based on their preferences.
+
+> Ensure that the user can apply to job listings without any issues.
+
+> Verify that the user can save and manage job searches and alerts.
+
 ## Messaging page:
 > Verify that the messaging feature is working correctly, including sending and receiving messages, creating new conversations, and replying to messages.
 
@@ -45,6 +61,14 @@ Here are some potential test cases categorized by page:
 > Check that the messaging notifications are displayed correctly.
 
 > Verify that the user can delete messages and conversations without any issues.
+
+> Verify that the messaging page loads quickly and without any errors.
+
+> Check that the user can send and receive messages without any issues.
+
+> Ensure that the user can manage their messaging settings and preferences.
+
+> Verify that the user can access and use messaging features, such as group messaging and file sharing.
 
 ## Groups page:
 > Ensure that the groups page loads quickly and without any errors.
@@ -151,15 +175,6 @@ Here are some potential test cases categorized by page:
 
 > Check that the app provides a smooth and seamless user experience, including fast loading times and intuitive navigation.
 
-## Messaging page:
-> Verify that the messaging page loads quickly and without any errors.
-
-> Check that the user can send and receive messages without any issues.
-
-> Ensure that the user can manage their messaging settings and preferences.
-
-> Verify that the user can access and use messaging features, such as group messaging and file sharing.
-
 ## Recommendations page:
 > Ensure that the recommendations page loads quickly and without any errors.
 
@@ -169,15 +184,6 @@ Here are some potential test cases categorized by page:
 
 > Ensure that the user can control their recommendation visibility and privacy settings.
 
-## Profile page:
-> Verify that the profile page loads quickly and without any errors.
-
-> Check that the user's profile information, such as their name, title, and experience, is displayed correctly.
-
-> Ensure that the user can edit and update their profile information without any issues.
-
-> Verify that the user can customize their profile privacy and visibility settings.
-
 ## Pulse page:
 > Check that the Pulse page loads quickly and without any errors.
 
@@ -186,12 +192,3 @@ Here are some potential test cases categorized by page:
 > Ensure that the user can follow and engage with authors and publishers.
 
 > Verify that the user can share articles and news stories with their connections.
-
-## Job search page:
-> Verify that the job search page loads quickly and without any errors.
-
-> Check that the user can search and filter job listings based on their preferences.
-
-> Ensure that the user can apply to job listings without any issues.
-
-> Verify that the user can save and manage job searches and alerts.
